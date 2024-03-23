@@ -1,5 +1,5 @@
 ![mygif](https://github.com/nymaaaooo/nymaaaooo/assets/99703674/d6c3208c-6f59-48a6-929e-4f974e05cf79)
-<h1 align="left">Hi 👋, I'm Nyamsambuu</h1>
+<h1 align="left">Hi 👋, I'm unknown</h1>
 <h3 align="left">A passionate cyber security engineer's student from Mongolia.</h3>
 
 - 🌱 I’m currently learning **Ethical Hacking From Scratch**
